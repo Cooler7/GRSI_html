@@ -1,0 +1,24 @@
+{
+  "name": "grsi_html",
+  "version": "1.0.0",
+  "description": "Projeto Aula GRSI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cooler7/GRSI_html.git"
+  },
+  "author": "Cooler7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cooler7/GRSI_html/issues"
+  },
+  "homepage": "https://github.com/Cooler7/GRSI_html#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
